@@ -5,7 +5,6 @@ In my free time, I like read, play video-games, watch animes and series and lear
 
 ## Tecnologys 
 <div display="flex">
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/e2bc2495-d5f5-4746-b535-8c8286be9956/node-js-1174925.webp?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201209T175448Z&X-Amz-Expires=86400&X-Amz-Signature=ba5871e919892df64066b49a6c18e4c17932b3048dec53b45942103317919465&X-Amz-SignedHeaders=host" width="50" height="50">
 
 <img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/c6baee46-d345-46ae-918c-f5b69ff550cf/html-5.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201209T175448Z&X-Amz-Expires=86400&X-Amz-Signature=be14b09c3be0013a204c76a8d3a80b0fa67a98e5efc30bec252774468e0c85e7&X-Amz-SignedHeaders=host" width="50" height="50">
 
@@ -18,4 +17,9 @@ In my free time, I like read, play video-games, watch animes and series and lear
 <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-svg-vector.svg" width="50" height="50">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprOxhL_yHSEzNV7wqT67c8PI4iMLr4Gp81g&usqp=CAU" width="50" height="50">
+
+<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="50" height="50">
+
+<img src="https://docs.microsoft.com/pt-br/windows/images/csharp-logo.png" width="50" height="50">
+
 </div>
