@@ -12,8 +12,6 @@ In my free time, I like read, play video-games, watch animes and series and lear
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" width="50" height="50">
 
-<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/fc26cb17-afca-46d5-9fe6-8c05b8249d42/C_Sharp_logo.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20201209%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20201209T175448Z&X-Amz-Expires=86400&X-Amz-Signature=e97dc26e5cd51ea4ffeb42d65c2a61fe9ea95d8cc98a55ddcea5eedddbe8aa5b&X-Amz-SignedHeaders=host" width="50" height="50">
-
 <img src="https://cdn.freebiesupply.com/logos/large/2x/angular-icon-1-logo-svg-vector.svg" width="50" height="50">
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRprOxhL_yHSEzNV7wqT67c8PI4iMLr4Gp81g&usqp=CAU" width="50" height="50">
