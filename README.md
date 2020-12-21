@@ -1,4 +1,4 @@
-#### Hi! Im Daniele but you can call me Dani or Misani. </br>
+#### Hi! Im Daniele but you can call me Dani. </br>
 Currently Im degreeing in Systems Analysis and Development and work with software development.</br>
 I found myself in the Tecnology for the possibility of changing the world and so many stuffs around me.</br>
 In my free time, I like read, play video-games, watch animes and series and learn about new tecnologys;
