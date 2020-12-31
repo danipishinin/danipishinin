@@ -20,7 +20,8 @@ In my free time, I like read, play video-games, watch animes and series and lear
 
 <img src="https://camo.githubusercontent.com/34887fa7c0b8c2ad11b85cd3a42fc5450822f4a14b110b80a7ee4971d4b8daf3/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f70742d62722f77696e646f77732f696d616765732f6373686172702d6c6f676f2e706e67" width="50" height="50">
 
-<img src=
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuoF-9ybsBQyJTuTautJqBKZBhjuo9JZYRYA&usqp=CAU" width="50" height="50">
+<img 
+src="https://camo.githubusercontent.com/5bdf7c9730170dbdc12441be7a9368c55e3413ccc7092bf948edefb3a3ad81e4/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352756f462d397962734251794a5475546175744a71424b5a42686a756f394a5a5952594126757371703d434155" width="50" height="50">
+
 </div>
 
