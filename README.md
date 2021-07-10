@@ -3,25 +3,26 @@ Currently Im degreeing in Systems Analysis and Development and work with softwar
 I found myself in the Tecnology for the possibility of changing the world and so many stuffs around me.</br>
 In my free time, I like read, play video-games, watch animes and series and learn about new tecnologys;
 
-## Tecnologys 
-<div display="flex">
 
-<img src="https://camo.githubusercontent.com/6db79c4756012955ae54c054779b4b8a5c61c010ecae847e5da4341a16393c42/68747470733a2f2f7777772e666c617469636f6e2e636f6d2f7376672f7374617469632f69636f6e732f7376672f313035312f313035313237372e737667" width="50" height="50">
 
-<img src="https://kariselovuo.pro/ksprov1/wp-content/uploads/2018/02/css-logo-300x300.png" width="50" height="50">
-
-<img src="https://camo.githubusercontent.com/6d7eb065c5ddacb69abb80a9cc74873fc1bd8160878a28ff11c6315844ac9dc0/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f392f39392f556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672f35313270782d556e6f6666696369616c5f4a6176615363726970745f6c6f676f5f322e7376672e706e67" width="50" height="50">
-
-<img src="https://camo.githubusercontent.com/dc060be170a49a8f3fd3e37865f89288843343c6338502f2bca9266bac6158f8/68747470733a2f2f63646e2e66726565626965737570706c792e636f6d2f6c6f676f732f6c617267652f32782f616e67756c61722d69636f6e2d312d6c6f676f2d7376672d766563746f722e737667" width="50" height="50">
-
-<img src="https://camo.githubusercontent.com/1fc9a3f952325266c994d0764216198ab8375e53f5785ecab0bd43fe1128b7f0/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e643947635270724f78684c5f794853457a4e563777715436376338504934694d4c7234477038316726757371703d434155" width="50" height="50">
-
-<img src="https://camo.githubusercontent.com/aac945beac14dc731dc0499a530a41c7b76addcae3adbeeae28b5dc3add9a3a0/68747470733a2f2f63646e2e69636f6e73636f75742e636f6d2f69636f6e2f667265652f706e672d3531322f6e6f64652d6a732d313137343932352e706e67" width="50" height="50">
-
-<img src="https://camo.githubusercontent.com/34887fa7c0b8c2ad11b85cd3a42fc5450822f4a14b110b80a7ee4971d4b8daf3/68747470733a2f2f646f63732e6d6963726f736f66742e636f6d2f70742d62722f77696e646f77732f696d616765732f6373686172702d6c6f676f2e706e67" width="50" height="50">
-
-<img 
-src="https://camo.githubusercontent.com/5bdf7c9730170dbdc12441be7a9368c55e3413ccc7092bf948edefb3a3ad81e4/68747470733a2f2f656e637279707465642d74626e302e677374617469632e636f6d2f696d616765733f713d74626e3a414e6439476352756f462d397962734251794a5475546175744a71424b5a42686a756f394a5a5952594126757371703d434155" width="50" height="50">
-
+<div>
+  <a href="https://github.com/danipishinin">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danipishinin&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danipishinin&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Icon-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Icon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Icon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Icon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Icon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Icon-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Icon-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Icon-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
 
+  <a href="https://www.linkedin.com/in/danipishinin" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
